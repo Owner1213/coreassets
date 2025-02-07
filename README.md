@@ -1,0 +1,2 @@
+# easywareinstaller
+easyware
