@@ -1,2 +1,2 @@
-# easywareinstaller
-easyware
+# coreassets
+personal use
